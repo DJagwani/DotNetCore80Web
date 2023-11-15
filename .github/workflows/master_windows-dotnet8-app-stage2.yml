@@ -54,4 +54,4 @@ jobs:
           app-name: 'windows-dotnet8-app-stage2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0F5A43F3F014F7D8945E1AB7CAA78B6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31D8C2EA599A4AFA9B1004FD8EC34470 }}
